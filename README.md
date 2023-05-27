@@ -6,6 +6,10 @@
 * [Next.js](https://nextjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
 
+## Progress
+
+* Sets up the basic structure of a Next.js project.
+
 ## Installation
 
 * Clone the project `git clone https://github.com/felipe-b-oliveira/ignite-news.git`
